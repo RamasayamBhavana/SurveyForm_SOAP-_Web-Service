@@ -1,0 +1,12 @@
+Installation and Set-up Instructions:
+
+1. Copy the "SWE645-Assignment5-WS.war" and "bramasay_ws_client.war" file and paste it in the following folder of your tomcat 7 location: "..\apache-tomcat-7.0.68\webapps"
+
+2. Open folder: "..\apache-tomcat-7.0.68\bin"
+
+3. Double click on "startup.bat" file.
+
+**** Tomcat command prompt should open and the server should be started.
+
+4. Open any web browser and hit this link: "http://localhost:8080/bramasay_ws_client/index.xhtml"
+
